@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(206, 164, 246);
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {margin-left: 250px;}
+
+.msg1{margin-left: 37%;}
+
+.msg{
+    color: aliceblue;
+    padding: 10px;
+    box-shadow: 3px 3px 3px rgb(90, 6, 169);
+    display: inline-block;
+    margin-top: -7px;
+}
+
+#msg2{    
+    background-color: blueviolet;
+    margin-left: 25%;
+}
+
+#msg3{
+    background-color: rgb(156, 95, 212);
+    margin-left: 30%;
+    
+}
+
+#msg4{
+    background-color: rgb(209, 166, 248);
+    margin-left: 35%;
+}
+
+button{
+    padding: 20px;
+    font-size: 25px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 400px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+}
